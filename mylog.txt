@@ -1,0 +1,1 @@
+dashboard.componment.html - the slider removed.
